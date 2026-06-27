@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
