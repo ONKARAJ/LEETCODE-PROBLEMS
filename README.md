@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 ## Enumeration
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0796-rotate-string) |
 ## Sorting
