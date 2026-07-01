@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -195,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
