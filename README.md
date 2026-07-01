@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -230,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
