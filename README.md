@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2104-sum-of-subarray-ranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2104-sum-of-subarray-ranges) |
 ## Graph Theory
 |  |
 | ------- |
