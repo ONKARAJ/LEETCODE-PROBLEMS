@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
