@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
