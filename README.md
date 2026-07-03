@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
