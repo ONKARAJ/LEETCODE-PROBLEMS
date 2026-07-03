@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
