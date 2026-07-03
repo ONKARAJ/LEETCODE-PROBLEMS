@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
