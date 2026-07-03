@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
