@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
