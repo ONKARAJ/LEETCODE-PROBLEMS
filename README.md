@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
