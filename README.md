@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
