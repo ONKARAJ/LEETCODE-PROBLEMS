@@ -4,6 +4,9 @@ public:
         unordered_map<char,char>mp1;
         unordered_map<char,char>mp2;
 
+if(s.length() !=t.length()){
+    return false;
+}
         for(int i=0;i<s.length();i++){
             char c1=s[i];
             char c2=t[i];
