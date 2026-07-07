@@ -1,7 +1,6 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        string k;
         string ans;
         int depth=0;
         for(char ch:s){
