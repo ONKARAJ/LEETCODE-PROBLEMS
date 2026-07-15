@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Queue
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
