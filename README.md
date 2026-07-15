@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
