@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -456,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -463,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
