@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1392-longest-happy-prefix) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1392-longest-happy-prefix) |
 ## Topological Sort
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
@@ -480,8 +483,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
