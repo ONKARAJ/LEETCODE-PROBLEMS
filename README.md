@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0152-maximum-product-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
