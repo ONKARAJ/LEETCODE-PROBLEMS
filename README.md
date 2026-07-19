@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
