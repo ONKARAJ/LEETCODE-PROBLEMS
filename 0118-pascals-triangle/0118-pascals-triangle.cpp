@@ -1,20 +1,17 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int numRows){
-vector <vector<int>> traingle;
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>>ans;
+        for(int i=0;i<numRows;i++){
+            vector<int>row(i+1);
+            row[0]=row[i]=1;
 
-for(int i=0;i<numRows;i++){
-    vector<int>row(i+1);
-    row[0]=row[i]=1;
+            for(int j=1;j<i;j++){
+                row[j]=ans[i-1][j-1]+ans[i-1][j];
+            }
 
-    for(int j=1;j<i;j++){
-        row[j]=traingle[i-1][j-1]+traingle[i-1][j];
-    }
-
-    traingle.push_back(row);
-}
-
-return traingle;
-
+            ans.push_back(row);
+        }
+        return ans;
     }
 };
