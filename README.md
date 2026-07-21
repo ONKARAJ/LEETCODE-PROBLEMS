@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0100-same-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -524,4 +527,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
