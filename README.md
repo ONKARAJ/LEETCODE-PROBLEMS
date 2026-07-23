@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
