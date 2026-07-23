@@ -11,16 +11,14 @@ public:
             maxfreq=max(maxfreq,st[s[right]]);
             int window=right-left+1;
 
-               while(window-maxfreq>k){
-            st[s[left]]--;
-            left++;
-            window=right-left+1;
-           
+            while(window-maxfreq>k){
+                st[s[left]]--;
+                left++;
+
+                window=right-left+1;
+            }
+            ans=max(ans,window);
         }
-         ans=max(ans,window);
-        }
-        
-     
         return ans;
     }
 };
