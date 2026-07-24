@@ -4,18 +4,17 @@ public:
         int n1=s.length();
         int n2=t.length();
 
-        if(n1 != n2){
+        if(n1!=n2){
             return false;
         }
 
         int freq[26]={0};
 
-        for(char ch : s){
+        for(char ch:s){
             freq[ch-'a']++;
         }
 
-        
-        for(char ch : t){
+        for(char ch:t){
             freq[ch-'a']--;
         }
 
@@ -24,7 +23,6 @@ public:
                 return false;
             }
         }
-
-return true;
+        return true;
     }
 };
