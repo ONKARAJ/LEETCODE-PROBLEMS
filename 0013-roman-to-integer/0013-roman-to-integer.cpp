@@ -11,14 +11,14 @@ public:
            {'M',1000}
 
         };
-        int ans=0;
-        for(int i=0;i<s.length();i++){
-            if(i+1 <s.length() && mp[s[i]] < mp[s[i+1]]){
-                ans -=mp[s[i]];
-            }else{
-                ans +=mp[s[i]];
-            }
+       int ans=0;
+       for(int i=0;i<s.length();i++){
+        if(i+1<s.length() && (mp[s[i]] <mp[s[i+1]])){
+            ans -=mp[s[i]];
+        }else{
+            ans+=mp[s[i]];
         }
-        return ans;
+       }
+       return ans;
     }
 };
