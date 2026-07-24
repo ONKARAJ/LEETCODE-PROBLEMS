@@ -11,7 +11,7 @@ public:
             int j = 0;
 
             // Compare characters
-            while(j < m && haystack[i + j] == needle[j])
+            while(j < m && haystack[j+i] == needle[j])
             {
                 j++;
             }
