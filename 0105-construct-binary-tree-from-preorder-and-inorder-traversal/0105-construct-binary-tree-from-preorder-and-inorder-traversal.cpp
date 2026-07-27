@@ -6,39 +6,37 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    int search(vector<int>& inorder, int left, int right, int val) {
-        for (int i = left; i <= right; i++) {
-            if (inorder[i] == val) {
-                return i;
-            }
+
+int search(vector<int>inorder,int left,int right,int val){
+    for(int i=left;i<=right;i++){
+        if(inorder[i]==val){
+            return i;
         }
-        return -1;
+    }
+    return -1;
+}
+
+TreeNode* helper(vector<int>&preorder,vector<int>&inorder,int& preidx,int left,int right){
+    if(left>right){
+        return NULL;
     }
 
-    TreeNode* helper(vector<int>& preorder, vector<int>& inorder, int& preidx,
-                     int left, int right) {
-        if (left > right) {
-            return NULL;
-        }
+    TreeNode* root=new TreeNode(preorder[preidx]);
+    int indix=search(inorder,left,right,preorder[preidx]);
+    preidx++;
 
-        TreeNode* root = new TreeNode(preorder[preidx]);
+    root->left=helper(preorder,inorder,preidx,left,indix-1);
+    root->right=helper(preorder,inorder,preidx,indix+1,right);
 
-        int inidx = search(inorder, left, right, preorder[preidx]);
-        preidx++;
-        root->left = helper(preorder, inorder, preidx, left, inidx - 1);
-        root->right = helper(preorder, inorder, preidx, inidx + 1, right);
-        return root;
-    }
-
+    return root;
+}
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int preidx = 0;
-
-        return helper(preorder, inorder, preidx, 0, inorder.size() - 1);
+        int preidx=0;
+        return helper(preorder,inorder,preidx,0,inorder.size()-1);
     }
 };
