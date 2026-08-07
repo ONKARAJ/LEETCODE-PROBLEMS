@@ -688,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1584-min-cost-to-connect-all-points) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
