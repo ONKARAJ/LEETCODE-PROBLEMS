@@ -1,10 +1,9 @@
 class Solution {
 public:
-long long totalhours(vector<int>& piles,int k){
+long long totalhours(vector<int>piles,int k){
     long long hours=0;
-
-    for(int pile: piles){
-   hours+=(pile+k-1)/k;
+    for(int pile:piles){
+        hours +=(pile+k-1)/k;
     }
     return hours;
 }
