@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -696,4 +698,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
