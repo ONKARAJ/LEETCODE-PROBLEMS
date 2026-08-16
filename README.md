@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -705,14 +709,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -721,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
