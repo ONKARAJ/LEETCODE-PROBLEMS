@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
