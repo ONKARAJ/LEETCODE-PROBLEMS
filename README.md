@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
 | ------- |
