@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1872-stone-game-viii) |
@@ -752,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
