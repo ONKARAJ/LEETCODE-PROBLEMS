@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1872-stone-game-viii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
