@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0152-maximum-product-subarray) |
+| [0313-super-ugly-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0313-super-ugly-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
