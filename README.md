@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0940-distinct-subsequences-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0907-sum-of-subarray-minimums) |
@@ -776,5 +780,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ONKARAJ/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
